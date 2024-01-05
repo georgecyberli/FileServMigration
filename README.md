@@ -17,7 +17,7 @@ Project involved upgrading three critical virtual file servers from Windows Serv
 - <b>Windows Server 2012 R2</b>
 - <b>Windows Server 2022</b>
 
-<h2>Program Summary:</h2>
+<h2>Project Summary:</h2>
 
 <h3>Server 1: Windows Server 2008 to Windows Server 2022</h3>
 
