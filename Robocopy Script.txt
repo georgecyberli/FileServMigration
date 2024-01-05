@@ -1,0 +1,12 @@
+
+1. Run CMD as Administrator.
+
+2. Run the following command to authenticate the source device with admin account 
+
+	C:\> net use \\source_device\IPC$ /user:admin_account PASSWORD
+
+3. Once completed successfully, run the robocopy command
+
+	> ROBOCOPY "SOURCE" "DESTINATION" /b /S /E /COPYALL /Z /dcopy:dat /MT:64 /R:2 /W:0 /SECFIX /LOG:C:\ROBOLOG.txt
+
+
