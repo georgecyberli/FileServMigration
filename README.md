@@ -13,8 +13,6 @@ Project involved upgrading three critical virtual file servers from Windows Serv
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2008</b>
-- <b>Windows Server 2012 R2</b>
 - <b>Windows Server 2022</b>
 
 <h2>Project Summary:</h2>
