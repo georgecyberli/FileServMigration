@@ -55,12 +55,10 @@ Project involved upgrading three critical virtual file servers from Windows Serv
 - The corrupted system poses a significant risk of data loss during server shutdown or reboot, requiring frequent data recovery from backups.
 - Upgrading to Windows Server 2022 resolves the stability issues, eliminating the need for constant data recovery and ensuring the integrity of stored files.
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+<br />
+<br />
+<br />
+
+
+<a href="https://github.com/georgecyberli" class="button icon back">Back to Portfolio Page</a>
